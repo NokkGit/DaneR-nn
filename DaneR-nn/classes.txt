@@ -1,0 +1,5 @@
+Klasa;2t
+K;Język polski;Anna;Tokarczyk-Wróbel;4
+Ga1;Pracownia programowania;Marek Bekier;2
+Ga2;Sieci komputerowe;Wojciech Mierzwa;3
+Gda;Religia;Lidia Flis;1s

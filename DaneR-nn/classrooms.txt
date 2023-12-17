@@ -1,0 +1,3 @@
+J.polski;23;32;Marek Olszewski
+Informatyka;14,1;17;Marek Bekier
+Religia;2;32;Lidia Flis

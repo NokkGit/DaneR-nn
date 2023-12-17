@@ -1,0 +1,3 @@
+Marek Bekier;Informatyka,Sieci;14,1
+Lidia Flis;Religia;2
+Małgorzata Traczyk;Wiedza o kulturze;0
